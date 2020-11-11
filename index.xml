@@ -114,11 +114,8 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Will-Reed.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <description>William Reed is Professor and Chair of the Department of Government &amp;amp; Politics at the University of Maryland.
+His research on bargaining and negotiation is at the intersection of Political Science, Economics, Biology, Genetics, and Psychology.</description>
     </item>
     
     <item>
@@ -127,16 +124,7 @@ Setup Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Will-Reed.github.io/contact/</guid>
-      <description>Follow me, @johndoe.</description>
-    </item>
-    
-    <item>
-      <title>Contato</title>
-      <link>https://Will-Reed.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Will-Reed.github.io/contact/</guid>
-      <description>Me siga em @joaoninguem.</description>
+      <description>William Reed | Professor &amp;amp; Chair Department of Government &amp;amp; Politics 3140 Tydings Hall College Park, MD 20742 Main Office: 301-405-4156 willreed.org | wlr@umd.edu</description>
     </item>
     
     <item>
@@ -159,15 +147,6 @@ pwd </description>
     </item>
     
     <item>
-      <title>Projetos</title>
-      <link>https://Will-Reed.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Will-Reed.github.io/projects/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
-    </item>
-    
-    <item>
       <title>Second snippet</title>
       <link>https://Will-Reed.github.io/snippets/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -175,15 +154,6 @@ pwd </description>
       <guid>https://Will-Reed.github.io/snippets/second/</guid>
       <description>This content is in snippets/second/index.md
 ls -la </description>
-    </item>
-    
-    <item>
-      <title>Sobre Hugo</title>
-      <link>https://Will-Reed.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Will-Reed.github.io/about/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
     </item>
     
   </channel>
