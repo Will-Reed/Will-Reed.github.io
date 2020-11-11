@@ -134,6 +134,15 @@ willreed.org | wlr@umd.edu</description>
     </item>
     
     <item>
+      <title>CV</title>
+      <link>https://Will-Reed.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Will-Reed.github.io/projects/</guid>
+      <description>Google Scholar Google ScholarCurriculum Vitae</description>
+    </item>
+    
+    <item>
       <title>First snippet</title>
       <link>https://Will-Reed.github.io/snippets/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -141,15 +150,6 @@ willreed.org | wlr@umd.edu</description>
       <guid>https://Will-Reed.github.io/snippets/first/</guid>
       <description>This content is in snippets/first/index.md
 pwd </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://Will-Reed.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Will-Reed.github.io/projects/</guid>
-      <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     
     <item>
